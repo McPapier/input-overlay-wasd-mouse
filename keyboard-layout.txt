@@ -1,0 +1,22 @@
+# Раскладка клавиатуры для пресета.
+# Одна строка = один ряд клавиш. Клавиши пишутся через пробел.
+#
+#   SPACE*3   клавиша шириной 3 обычные клавиши (можно 1.5, 2 и т.д.)
+#   _         пустое место (тоже можно _*2)
+#   #         строка-комментарий, игнорируется
+#
+# Названия клавиш:
+#   буквы A-Z, цифры 0-9, F1-F24
+#   ESC TAB CAPS ENTER BACKSPACE SPACE
+#   SHIFT CTRL ALT (левые), RSHIFT RCTRL RALT (правые), WIN
+#   UP DOWN LEFT RIGHT, INS DEL HOME END PGUP PGDN
+#   ` - = [ ] \ ; ' , . /
+#   NUM0-NUM9, NUM+ NUM- NUM* NUM/ NUMENTER
+#
+# После изменения запустите make-presets.bat (двойной клик) и обновите источник в OBS.
+
+ESC
+Q W E R
+A S D F
+SHIFT Z X C
+CTRL SPACE*3
