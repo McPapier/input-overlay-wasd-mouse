@@ -1,0 +1,252 @@
+{
+    "default_height":  69,
+    "default_width":  64,
+    "elements":  [
+                     {
+                         "code":  1,
+                         "id":  "esc",
+                         "mapping":  [
+                                         1,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     0,
+                                     0
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  64,
+                         "id":  "q",
+                         "mapping":  [
+                                         68,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     0,
+                                     77
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  70,
+                         "id":  "w",
+                         "mapping":  [
+                                         135,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     72,
+                                     77
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  52,
+                         "id":  "e",
+                         "mapping":  [
+                                         202,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     144,
+                                     77
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  65,
+                         "id":  "r",
+                         "mapping":  [
+                                         269,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     216,
+                                     77
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  48,
+                         "id":  "a",
+                         "mapping":  [
+                                         336,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     0,
+                                     154
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  66,
+                         "id":  "s",
+                         "mapping":  [
+                                         403,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     72,
+                                     154
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  51,
+                         "id":  "d",
+                         "mapping":  [
+                                         470,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     144,
+                                     154
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  53,
+                         "id":  "f",
+                         "mapping":  [
+                                         537,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     216,
+                                     154
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  144,
+                         "id":  "shift",
+                         "mapping":  [
+                                         604,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     0,
+                                     231
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  73,
+                         "id":  "z",
+                         "mapping":  [
+                                         671,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     72,
+                                     231
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  71,
+                         "id":  "x",
+                         "mapping":  [
+                                         738,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     144,
+                                     231
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  50,
+                         "id":  "c",
+                         "mapping":  [
+                                         805,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     216,
+                                     231
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  146,
+                         "id":  "ctrl",
+                         "mapping":  [
+                                         872,
+                                         1,
+                                         64,
+                                         69
+                                     ],
+                         "pos":  [
+                                     0,
+                                     308
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     },
+                     {
+                         "code":  83,
+                         "id":  "space",
+                         "mapping":  [
+                                         939,
+                                         1,
+                                         208,
+                                         69
+                                     ],
+                         "pos":  [
+                                     72,
+                                     308
+                                 ],
+                         "type":  1,
+                         "z_level":  1
+                     }
+                 ],
+    "flags":  0,
+    "overlay_height":  377,
+    "overlay_width":  280,
+    "space_h":  0,
+    "space_v":  0,
+    "version":  508
+}
